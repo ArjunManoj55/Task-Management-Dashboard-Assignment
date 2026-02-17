@@ -4,6 +4,8 @@ A **Task Management Dashboard** built with **React + Vite**, featuring mocked au
 
 This project was created as a **React Developer Technical Assignment** and focuses on **clean architecture, state management, UX, and modern React practices**.
 
+Video Explanation - https://youtu.be/Ku0ht0-afM0
+
 ---
 
 ## screen shots

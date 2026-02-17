@@ -209,22 +209,5 @@ http://localhost:5173
 * Drag & drop implemented using native HTML5 API (no extra libs)
 
 ---
-
----
-
-## 📸 Submission Includes
-
-* ✅ GitHub Repository
-* ✅ Screenshots
-* ✅ Working Demo Video
-* ✅ This README
-
----
-
-## 👨‍💻 Author
-
-Built with focus on **clarity, correctness, and interview readiness**.
-
----
-
+ 
 ⭐ **Thank you for reviewing!**

@@ -6,6 +6,17 @@ This project was created as a **React Developer Technical Assignment** and focus
 
 ---
 
+## screen shots
+
+ <img width="1911" height="940" alt="image" src="https://github.com/user-attachments/assets/1a86f9a0-80db-4c15-a40f-a7c0532a5e02" />
+ <img width="1908" height="900" alt="Screenshot 2026-02-17 110754" src="https://github.com/user-attachments/assets/cfd636d1-72d6-43c3-9594-31b5c96d5b61" />
+
+
+
+---
+
+---
+
 ## 🚀 Tech Stack
 
 * **React (Hooks)** – Component-based UI
